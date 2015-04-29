@@ -1,4 +1,6 @@
 - [![Build Status](https://travis-ci.org/sxyizhiren/telnetit.png?branch=master)](https://travis-ci.org/sxyizhiren/telnetit)
+- [![NPM version](https://badge.fury.io/js/telnetit.png)](http://badge.fury.io/js/telnetit)
+- [![Dependencies Status](https://david-dm.org/sxyizhiren/telnetit.png)](https://david-dm.org/sxyizhiren/telnetit)
 
 # install
 npm install telnetit
