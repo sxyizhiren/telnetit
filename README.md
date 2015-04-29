@@ -1,3 +1,5 @@
+- [![Build Status](https://travis-ci.org/sxyizhiren/telnetit.png?branch=master)](https://travis-ci.org/sxyizhiren/telnetit)
+
 # install
 npm install telnetit
 
